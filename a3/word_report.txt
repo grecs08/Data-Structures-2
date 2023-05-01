@@ -1,0 +1,14 @@
+Line Count: 3
+Total Word Count: 13
+Distinct Word Count: 9
+
+Distinct Words and Their Frequencies:
+this: 2
+is: 2
+the: 2
+first: 1
+test: 2
+second: 1
+cp264: 1
+data: 1
+structures: 1

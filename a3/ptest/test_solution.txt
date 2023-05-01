@@ -1,0 +1,40 @@
+q1  
+str:"     This Is    a Test   String   "
+str_length(str):34
+word_count(str):5
+str_trim(str):"this is a test string"
+str_length(str_trim(str)):21
+q2  
+
+word stats:value
+line count:3
+total word count:13
+distinct word count:9
+
+distinct words:frequency
+this:2
+is:2
+the:2
+first:1
+test:2
+second:1
+cp264:1
+data:1
+structures:1
+
+file contents
+word stats:value
+line count:3
+total word count:13
+distinct word count:9
+
+distinct words:frequency
+this:2
+is:2
+the:2
+first:1
+test:2
+second:1
+cp264:1
+data:1
+structures:1
